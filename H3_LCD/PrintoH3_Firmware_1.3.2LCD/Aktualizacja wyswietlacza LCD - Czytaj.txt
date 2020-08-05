@@ -1,0 +1,1 @@
+Aby zaktualizować firmware wyświetlacza należy umieścić plik printoh3lcd.txt na karcie microSD i umieścić ją w czytniku zlokalizowanym tuż nad ekranem. Następnie wyłącz całkowicie urządzenie i włącz je ponownie. Rozpocznie się aktualizacja oprogramowania wyświetlacza, kiedy dobiegnie końca ekran wyświetli stosowną informację. Należy wówczas ponownie uruchomić urządzenie.
