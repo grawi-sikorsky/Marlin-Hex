@@ -1,4 +1,5 @@
-- 1.3.1 - old color LCD TFT 	+ 1.3.1 Marlin OLD MK4
-- 1.3.2 - new LCD TFT 		+ 1.3.1 Marlin dostosowany do new LCD
-- 1.4.0 - new LCD TFT		+ 1.4.0 Marlin
-- 2.0.1 - new LCD TFT		+ 2.0.1 Marlin 32 bit
+- 1.3.1 - old color LCD TFT 	+ 1.3.1 Marlin OLD MK4							[G:\[]GIT\Marlin-MK4-1.3.1\Marlin]
+- 1.3.1a - olc color LCD THT 	+ 1.3.1 Marlin OLD MK4 poprawki [sdlist]		[G:\[]GIT\Marlin-MK4-1.3.1\Marlin]
+- 1.3.2 - new LCD TFT 			+ 1.3.1 Marlin dostosowany do new LCD			[G:\[]GIT\Marlin-MK4-1.3.1\Marlin]
+- 1.4.0 - new LCD TFT			+ 1.4.0 Marlin
+- 2.0.1 - new LCD TFT			+ 2.0.1 Marlin 32 bit
